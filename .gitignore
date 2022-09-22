@@ -1,0 +1,5 @@
+DB_URL= mongodb+srv://SAMSIDEENNAEEM:02461NAEEM@cluster0.jrxdzgl.mongodb.net/?retryWrites=true&w=majority
+
+node_modules
+
+.env
