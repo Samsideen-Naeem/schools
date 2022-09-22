@@ -1,5 +1,5 @@
 const jwt = require('/jsonwebtoken')
-const User = require('../models/userschema')
+const User = require('../controllers/models/userschema')
 
 // is admin middleware
 
